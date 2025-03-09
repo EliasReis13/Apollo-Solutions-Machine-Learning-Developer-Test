@@ -6,10 +6,6 @@ A machine learning pipeline for analyzing genetic syndrome embeddings from image
 - [Installation](#installation)
 - [Project Structure](#-project-structure)
 - [Usage](#-usage)
-- [Script Documentation](#-script-documentation)
-- [Output Examples](#-output-examples)
-- [Troubleshooting](#-troubleshooting)
-- [License](#-license)
 
 ## Installation 📥
 
