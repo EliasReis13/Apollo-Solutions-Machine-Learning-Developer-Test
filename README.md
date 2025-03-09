@@ -23,6 +23,7 @@ git clone https://github.com/yourusername/apollo-genetic-analysis.git
 pip install -r requirements.txt
 ```
 3. 📁 Project Structure
+```bash
 apollo_test/
 ├── data/
 │   └── mini_gm_public_v0.1.p         # Raw data file
