@@ -47,8 +47,24 @@ genetic-syndrome-analysis/
 ```
 
 ## Usage 🚦
-Full Pipeline Execution
+### Full Pipeline Execution
 ```bash
 python main.py
 ```
+### Individual Components
+```bash
+# Data preprocessing
+python scripts/data_processing.py
 
+# Generate EDA visualizations
+python scripts/eda.py
+
+# Create t-SNE plot
+python scripts/tsne_visualization.py
+
+# Run KNN classification
+python scripts/knn_classification.py
+
+# Generate performance plots
+python scripts/generate_plots.py
+```
