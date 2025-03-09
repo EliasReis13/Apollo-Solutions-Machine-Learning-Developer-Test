@@ -15,4 +15,4 @@ A comprehensive pipeline for analyzing genetic syndrome embeddings using machine
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/apollo-genetic-analysis.git
+git clone https://github.com/EliasReis13/Apollo-Solutions-Machine-Learning-Developer-Test.git
